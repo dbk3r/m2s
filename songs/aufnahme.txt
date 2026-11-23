@@ -1,0 +1,194 @@
+# Textvorlage. Jede Zeile ohne # ist ein Clip. Die App kopiert sie in den Ordner des Sängers.
+# Die Abarbeitung steht in songs/aufnahme/reihenfolge.txt.
+# Noten: c2, d#2, f#2, a2, c3, d#3, f#3, a3, c4, d#4, f#4, a4, c5.
+# Eine Note, die nicht gerade hält, fällt ganz weg.
+# Vor und nach der Zeile ein hörbarer Atem. Schnitt in diesem Atem.
+# Der Clip bleibt zwischen drei und sechs Sekunden. Kein Vibrato.
+# Die Dauer in Stunden kommt später aus den WAV-Längen.
+
+# Knacklaut, ich-Laut und ach-Laut
+ich liebe dich
+das Licht ist weich
+das Mädchen lacht
+Milch und Kuchen
+ich rieche Rauch
+durch das Buch
+doch noch nicht
+die Woche war lang
+das Dach ist hoch
+der Bach rauscht
+lachen und weinen
+Sprache und Schrift
+reich und weich
+der Kuchen duftet
+ein Tuch liegt da
+auch ich lache
+
+# r am Anfang und r am Ende
+wir erinnern uns
+er ist wieder da
+der Vater ruht
+die Mutter weint
+rot wie Blut
+der Regen fällt
+frei und groß
+grün und froh
+schreiben und lesen
+sehr weit weg
+mehr Licht bitte
+die Uhr schlägt
+das Tor steht offen
+leer und still
+mit dir und mir
+für uns beide
+reisen und rasten
+die Frage bleibt
+
+# kurzes e am Wortende
+bitte leise
+die Liebe bleibt
+die Sonne scheint
+eine rote Blume
+am Ende der Frage
+heute bin ich müde
+die Leute leben
+eine Frage bleibt
+die Antwort kommt
+heute Nacht
+bitte bleiben
+leise und müde
+die Blume duftet
+ohne Eile
+die gute Frage
+
+# langer und kurzer Vokal
+die Bahn fährt
+das Bett ist schmal
+der Ofen ist heiß
+die Tür ist offen
+das Huhn im Hof
+der Hund bellt laut
+ich fühle Wärme
+der Beutel ist voll
+liegen und sitzen
+der Staat ruht
+die Stadt schläft
+das Beet ist grün
+ich biete Hilfe
+der Ofen glüht
+offen und ehrlich
+
+# Zeit, Zug, Pferd, Deutsch
+die Zeit vergeht
+der Zug kommt an
+die Katze schläft
+ein Pferd steht da
+die Pflanze wächst
+auf Deutsch gesagt
+zehn Ziegen zählen
+die Zunge zeigt
+der Kopf tut weh
+ein Apfel fällt
+die Pfanne steht
+kurz und knapp
+frisch und frei
+
+# Verschlusslaute und Nasenlaute
+Papa kommt bald
+der Tag ist kalt
+der Ball fällt
+dann geht es gut
+der Mann singt
+ein langer Weg
+die Bank ist nah
+jung und froh
+die Hand ist warm
+kalt und nass
+ganz langsam
+ganz laut
+gut und gern
+der Gast kommt
+der Garten blüht
+gelb und grün
+die Gabel liegt
+
+# Doppellaute
+klein und fein
+mein Wein
+eins zwei drei
+ein Haus am See
+die Leute laufen
+ein Baum im Wind
+braun und blau
+neu und treu
+Bäume und Häuser
+auch du kommst
+die Frau läuft
+das Kind läuft nach Haus
+heute wieder
+mein Freund bleibt
+
+# runde Vokale
+sie ist schön
+der Löwe brüllt
+zwölf Löffel
+die Küche ist kühl
+süß und mild
+fünf Münzen
+die Tür bleibt zu
+für dich allein
+hören und sprechen
+müde und kühl
+die Höhe lockt
+Söhne und Töchter
+
+# langes ä
+Käse und Brot
+spät am Abend
+der Käfer fliegt
+ein später Gast
+die Säge sägt
+der Bär schläft
+
+# Atem, Himmel, Alltag
+der Himmel ist blau
+atmen und halten
+oben und unten
+vor und zurück
+das Wasser ist warm
+warum so spät
+wo wohnst du
+wer war das
+wann kommst du
+ich bin hier
+du bist dort
+sie singt leise
+er spricht laut
+wir bleiben hier
+ihr kommt mit
+sie gehen fort
+das Schiff fährt
+Fisch und Fleisch
+zwischen den Zeilen
+Spiel und Spaß
+der Wind weht
+hast du Zeit
+was ist das
+ja und nein
+so ist es
+am Abend essen wir
+ein Apfel am Abend
+über uns die Eule
+und er atmet ein
+die Eule schaut
+eins nach dem andern
+
+# Hänschen klein, dieselbe kurze Fassung wie in der Studie
+Hänschen klein ging allein
+in die weite Welt hinein
+Stock und Hut stehn ihm gut
+er ist wohlgemut
+doch die Mutter weint so sehr
+hat ja gar kein Hänschen mehr
+da besinnt sich das Kind
+läuft nach Haus geschwind

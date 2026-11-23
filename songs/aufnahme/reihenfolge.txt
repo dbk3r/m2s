@@ -1,0 +1,12 @@
+Arbeitsreihenfolge. Eine Note auslassen, wenn sie nicht geht.
+
+Jeder Sänger hat einen eigenen Ordner, zum Beispiel songs/aufnahme/denis. Die Notenordner direkt unter songs/aufnahme sind die Textvorlage und werden nicht besungen. Die WAV liegt im Sängerordner neben der kopierten TXT. Das Training zeigt auf diesen Sängerordner.
+
+1. Mit einem Stimmgerät die tiefste Note suchen, die du drei bis sechs Sekunden gerade hältst, ohne Vibrato und ohne abzurutschen. C2 ist der tiefe Bass-C. Liegt die Stimme eine Oktave höher, ist es C3.
+2. Den ersten Ordner nehmen, den du so halten kannst. Die Ordner von unten nach oben: c2, d#2, f#2, a2, c3, d#3, f#3, a3, c4, d#4, f#4, a4, c5. d# ist Dis, f# ist Fis. Der Abstand ist eine kleine Terz.
+3. In diesem Ordner zuerst alle Dateien in leise, von 001 bis 165. Danach alle Dateien in laut.
+4. Die WAV liegt neben der TXT und heißt genauso. In der TXT steht die Zeile, die gesungen wird.
+5. Vor und nach der Zeile ein hörbarer Atem. Schnitt im Atem. Kein Hall, kein Vibrato.
+6. Die nächste Note nach oben. Die erste Zeile probieren. Hält sie nicht, den ganzen Notenordner auslassen.
+7. Der erste vollständig leise gesungene Notenordner ist der 15-Minuten-Pilot.
+8. Aufhören, wenn keine höhere Note mehr sitzt oder die behaltenen Aufnahmen drei Stunden füllen. Eine unsichere Note nicht aufnehmen.

@@ -1,0 +1,4 @@
+# Source: OpenUtau DiffSingerGermanPhonemizer.cs @ cc700f92
+# GermanG2p.cs lists these names and no IPA equivalents.
+vowels	aa ae ah ao aw ax ay ee eh er ex ih iy oe ohh ooh oy ue uh uw yy
+consonants	b cc ch d dh f g hh jh k l m n ng p pf q r rr s sh t th ts v w x y z zh

@@ -1,0 +1,52 @@
+index	syllable	word	first	midi	name	ticks	phonemes	variants	flags
+1	Häns	Hänschen	1	67	G4	240	h ɛ n s	1	
+2	chen	Hänschen	0	64	E4	240	ç ə n		ç,schwa
+3	klein	klein	1	64	E4	480	k l a ɪ n	1	
+4	ging	ging	1	65	F4	240	ɡ ɪ ŋ	1	
+5	al	allein	1	62	D4	240	ʔ a	1	glottal
+6	lein	allein	0	62	D4	480	l a ɪ n		
+7	in	in	1	60	C4	240	ʔ ɪ n	1	glottal
+8	die	die	1	62	D4	240	d iː	1	
+9	wei	weite	1	64	E4	240	v a ɪ	1	
+10	te	weite	0	65	F4	240	t ə		schwa
+11	Welt	Welt	1	67	G4	240	v ɛ l t	1	
+12	hin	hinein	1	67	G4	240	h ɪ n	1	
+13	ein	hinein	0	67	G4	480	a ɪ n		
+14	Stock	Stock	1	67	G4	240	ʃ t ɔ k	1	
+15	und	und	1	64	E4	240	ʔ ʊ n t	1	glottal
+16	Hut	Hut	1	64	E4	480	h uː t	1	
+17	stehn	stehn	1	65	F4	240	ʃ t eː n	1	
+18	ihm	ihm	1	62	D4	240	ʔ iː m	1	glottal
+19	gut	gut	1	62	D4	480	ɡ uː t	1	
+20	wan	wandert	1	60	C4	240	v a n	1	
+21	dert	wandert	0	64	E4	240	d ɐ t		vocalic-r
+22	wohl	wohlgemut	1	67	G4	240	v oː l	1	
+23	ge	wohlgemut	0	67	G4	240	ɡ ə		schwa
+24	mut	wohlgemut	0	60	C4	480	m uː t		
+25					rest	480			
+26	Doch	Doch	1	62	D4	240	d ɔ x	1	x
+27	die	die	1	62	D4	240	d iː	1	
+28	Mut	Mutter	1	62	D4	240	m ʊ	1	
+29	ter	Mutter	0	62	D4	240	t ɐ		vocalic-r
+30	weint	weint	1	62	D4	240	v a ɪ n t	1	
+31	so	so	1	64	E4	240	z oː	2	
+32	sehr	sehr	1	65	F4	480	z eː ɐ	1	vocalic-r
+33	hat	hat	1	64	E4	240	h a t	1	
+34	ja	ja	1	64	E4	240	j aː	1	
+35	gar	gar	1	64	E4	240	ɡ aː ɐ	1	vocalic-r
+36	kein	kein	1	64	E4	240	k a ɪ n	1	
+37	Häns	Hänschen	1	64	E4	240	h ɛ n s	1	
+38	chen	Hänschen	0	65	F4	240	ç ə n		ç,schwa
+39	mehr	mehr	1	67	G4	480	m eː ɐ	1	vocalic-r
+40	Da	Da	1	67	G4	240	d aː	1	
+41	be	besinnt	1	64	E4	240	b ə	1	schwa
+42	sinnt	besinnt	0	64	E4	480	z ɪ n t		
+43	sich	sich	1	65	F4	240	z ɪ ç	2	ç
+44	das	das	1	62	D4	240	d a s	1	
+45	Kind	Kind	1	62	D4	480	k ɪ n t	1	
+46	läuft	läuft	1	60	C4	240	l ɔ ɪ f t	1	
+47	nach	nach	1	64	E4	240	n aː x	1	x
+48	Haus	Haus	1	67	G4	240	h a ʊ s	1	
+49	ge	geschwind	1	67	G4	240	ɡ ə	1	schwa
+50	schwind	geschwind	0	60	C4	480	ʃ v ɪ n t		
+51					rest	480			

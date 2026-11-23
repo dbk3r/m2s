@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: m2s
+Version: 0.1.0
+Summary: Phase 1: German singing G2P, phoneme set, and the test/analysis loop.
+Requires-Python: >=3.11
+Requires-Dist: fastapi>=0.115
+Requires-Dist: uvicorn>=0.32
+Requires-Dist: pyyaml>=6

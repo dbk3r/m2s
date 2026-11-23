@@ -1,0 +1,29 @@
+# Eine venv direkt unter Windows, für den Dienst und für das Training.
+# PyTorch steht hier nicht drin. DiffSinger sagt: PyTorch von Hand, empfohlen >= 2.4,
+# passend zu Windows und CUDA von https://pytorch.org/get-started/locally/
+# Danach: pip install -r requirements-windows.txt
+#
+# Die Trainingspakete sind openvpi/DiffSinger requirements.txt, Stand main.
+# SingingVocoders veröffentlicht keine eigene requirements.txt und läuft in derselben Umgebung.
+
+fastapi>=0.115
+uvicorn>=0.32
+PyYAML>=6
+
+click
+h5py
+librosa<0.10.0
+lightning~=2.3.0
+matplotlib
+MonkeyType>=23.3.0
+numpy<2.0.0
+onnx>=1.21.0
+onnxsim>=0.6.5
+praat-parselmouth==0.4.3
+pyworld==0.3.4
+resampy
+scipy>=1.10.0
+tensorboard
+tensorboardX
+torchmetrics
+tqdm

@@ -1,0 +1,24 @@
+# Native Windows-venv. Schrägstriche, damit YAML die Pfade nicht als Escape liest.
+# train_python ist das python.exe derselben Umgebung, die den Dienst startet.
+token: ""
+train_python: D:/m2s/.venv/Scripts/python.exe
+# Ein Sängerordner, zum Beispiel songs/aufnahme/denis. Die Notenordner direkt
+# unter songs/aufnahme sind nur die Textvorlage. data_input_path in den
+# Trainingsconfigs zeigt auf denselben Sängerordner.
+corpus_dir: D:/m2s/songs/aufnahme/saenger
+diffsinger_dir: D:/m2s/DiffSinger
+singingvocoders_dir: D:/m2s/SingingVocoders
+vocoder_checkpoint: D:/m2s/checkpoints/nsf_hifigan_44.1k_hop512_128bin_2024.02/model.ckpt
+vocoder_config: D:/m2s/SingingVocoders/configs/ft_hifigan.yaml
+variance_config: D:/m2s/DiffSinger/configs/variance.de.yaml
+acoustic_config: D:/m2s/DiffSinger/configs/acoustic.de.yaml
+work_dir: D:/m2s/work
+preprocess_workers: 8
+exp_vocoder: vocoder
+exp_variance: variance
+exp_acoustic: acoustic
+# Vom gepinnten ONNX abschreiben, zum Beispiel e oder 10. Leer lässt keinen Lauf zu.
+mel_base: ""
+# DS-Datei für den Hörtest über scripts/infer.py. Leer lässt keinen Test zu.
+test_ds: ""
+lock: config/audio.lock.yaml
